@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473713347871",
+    "project_id": "sdrive-6791f",
+    "storage_bucket": "sdrive-6791f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473713347871:android:a1997a308961f030c3f42a",
+        "android_client_info": {
+          "package_name": "com.example.notekeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUHdtWiT_UnIRSn1BJnOmaiggQeUcPjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473713347871:android:ed6c8f671e888eb1c3f42a",
+        "android_client_info": {
+          "package_name": "com.example.sdrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUHdtWiT_UnIRSn1BJnOmaiggQeUcPjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
