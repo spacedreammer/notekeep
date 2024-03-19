@@ -49,20 +49,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAMUHdtWiT_UnIRSn1BJnOmaiggQeUcPjA',
-    appId: '1:473713347871:android:a1997a308961f030c3f42a',
-    messagingSenderId: '473713347871',
-    projectId: 'sdrive-6791f',
-    storageBucket: 'sdrive-6791f.appspot.com',
-  );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDVHEfokqVEQOrgvKwxzpnwET1WaGNjudg',
-    appId: '1:473713347871:ios:c86694856a8daa52c3f42a',
-    messagingSenderId: '473713347871',
-    projectId: 'sdrive-6791f',
-    storageBucket: 'sdrive-6791f.appspot.com',
-    iosBundleId: 'com.example.notekeep',
-  );
 }
